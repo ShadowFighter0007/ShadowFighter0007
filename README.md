@@ -2,9 +2,9 @@
   <head>
     <title>Forms</title>
     <style type="text/css">
-      body{background-color:black}
-      h1{color🟡}
-      h2(color🔶)
+      body{background-color:white}
+      h1{color:yellow}
+      h2(color:orange)
       </style>
   </head>
   <body>
