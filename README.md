@@ -1,11 +1,5 @@
 <html>
   <head>
-    <title>Forms</title>
-    <style type="text/css">
-      body{background-color:white}
-      h1{color:yellow}
-      h2(color:orange)
-      </style>
   </head>
   <body>
     <table>
